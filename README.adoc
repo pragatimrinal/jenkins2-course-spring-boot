@@ -31,6 +31,7 @@ formats.
 
 Here is a quick teaser of a complete Spring Boot application in Java:
 
+
 [source,java,indent=0]
 ----
 	import org.springframework.boot.*;
